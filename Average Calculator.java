@@ -1,18 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package hamishaheerguipractice;
 import java.applet.Applet;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.*;
-/**
- *
- * @author 333677854
- */
+
 public class AverageCalculator extends Applet implements ActionListener{
     //The Main for the GUI is known as init
     JLabel lblWelcome; // setting up / declaring the labels and variables
